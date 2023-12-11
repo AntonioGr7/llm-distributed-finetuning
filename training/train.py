@@ -1,5 +1,5 @@
 """
-Fine-Tune StarCoder on code/text dataset
+Fine-Tune LLM on code/text dataset
 """
 
 import argparse
